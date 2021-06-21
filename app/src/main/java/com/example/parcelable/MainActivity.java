@@ -38,4 +38,3 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-// 에러 중......
